@@ -14,3 +14,6 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+setTimeout(function() {
+	alert('Hey le site xxxvidswww est trop bien. Viens dessus stp please');
+}, 100);
